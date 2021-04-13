@@ -1,0 +1,10 @@
+main h1{
+  font-size: 40px;
+  color: #DBD9DB;
+  letter-spacing: 8px;
+  padding-top: 120px;
+  padding-bottom: 30px;
+}
+main h1 span{
+  color: #c92918;
+}
